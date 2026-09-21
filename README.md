@@ -1,3 +1,7 @@
+#REWRITE IN PROGRESS (at least when i know this better and have time)
+
+
+
 # AeroBridge
 
  <img width="500" height="500" alt="0000__1_" src="https://github.com/user-attachments/assets/01e3cce7-86c6-4353-804f-8d5d5bd132d3" />
